@@ -46,7 +46,7 @@ NOTE: le PDF de la présentation peut être déposé la veille au soir de la sou
 
 ----
 
-Ceci est la page principale des rapports de stage de l'année {year} pour les Master 1 et 2 CSMI.
+Ceci est la page principale des rapports de stage de l'année 2024 pour les Master 1 et 2 CSMI.
 
 
 == Le travail de stage
@@ -62,11 +62,11 @@ Votre travail sera déposé sur le site de l'année correspondante.
 
 ==== Master 1
 
-par::[{year},m1]
+par::[2024,m1]
 
 ==== Master 2
 
-par::[{year},m2]
+par::[2024,m2]
 
 === Comment déposer un rapport Antora
 

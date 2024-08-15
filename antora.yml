@@ -1,11 +1,11 @@
-name: csmi-stages-{year}
-title: Master CSMI {year}
+name: csmi-stages-2024
+title: Master CSMI 2024
 version: ~
 start_page: ROOT:index.adoc
 asciidoc: 
   attributes: 
     hide-uri-scheme: '' 
-    year: {year}
+    year: 2024
 nav:
 - modules/ROOT/nav.adoc
 - modules/m1/nav.adoc
