@@ -1,30 +1,22 @@
 
- - [[[Anki]]] Anki Lucas, _Détermination des meilleurs paramètres de la fonction d'évaluation d'un algorithme génétique pour un vehicle routing problem._, link:http://synovo.fr[Synovo], link:{attachmentsdir}/++Anki-Lucas.pdf++[Anki-Lucas.pdf],  link:{attachmentsdir}/++Anki-Lucas-slides.pdf++[Anki-Lucas-slides.pdf] 
+ - [[[AlidadiHeran]]] Alidadi Heran Sacha, _Mise en œuvre de l'utilisation des toolbox feel++ pour le calcul mécanique dynamique (propagation des ondes mécaniques dans des solides à géométrie complexes)._, link:[Avnir Energy], xref:attachment$Alidadi Heran-Sacha.pdf[Alidadi Heran-Sacha.pdf],  xref:attachment$Alidadi Heran-Sacha-slides.pdf[Alidadi Heran-Sacha-slides.pdf] 
 
- - [[[Azzoug]]] Azzoug Celia, _Développement applicatif_, link:[New Xperience-3D], link:{attachmentsdir}/++Azzoug-Celia.pdf++[Azzoug-Celia.pdf],  link:{attachmentsdir}/++Azzoug-Celia-slides.pdf++[Azzoug-Celia-slides.pdf] 
+ - [[[Ballout]]] Ballout Hassan, _Bases réduites non-linéaire_, link:[Irma - Cnrs Umr7501 - Universite De Strasbourg], xref:attachment$Ballout-Hassan.pdf[Ballout-Hassan.pdf],  xref:attachment$Ballout-Hassan-slides.pdf[Ballout-Hassan-slides.pdf] 
 
- - [[[Bernard]]] Bernard Pierre, _Accompagner TotalEnergies dans l’exploration des données, la mise en place d’algorithmes et le suivi des modèles pour différents cas d’usages._, link:https://www.totalenergies.fr/[TotalEnergies], link:{attachmentsdir}/++Bernard-Pierre.pdf++[Bernard-Pierre.pdf],  link:{attachmentsdir}/++Bernard-Pierre-slides.pdf++[Bernard-Pierre-slides.pdf] 
+ - [[[Barkan]]] Barkan Iman, _Stage consultant bi/bw_, link:https://www.fr.capgemini.com/[Capgemini Technology Services], xref:attachment$Barkan-Iman.pdf[Barkan-Iman.pdf],  xref:attachment$Barkan-Iman-slides.pdf[Barkan-Iman-slides.pdf] 
 
- - [[[ElHoussaini]]] El Houssaini Youness, _Control of the goldak heat source parameters
-based on experimental welding data using finite element analysis._, link:https://www.iwm.fraunhofer.de/en/contact.html[Fraunhofer Institute For Mechanics Of Materials], link:{attachmentsdir}/++El Houssaini-Youness.pdf++[El Houssaini-Youness.pdf],  link:{attachmentsdir}/++El Houssaini-Youness-slides.pdf++[El Houssaini-Youness-slides.pdf] 
+ - [[[Congo]]] Congo Job, _Optimisation des coûts de production_, link:www.fonderie-de-niederbronn.com[Fonderie De Niederbronn], xref:attachment$Congo-Job.pdf[Congo-Job.pdf],  xref:attachment$Congo-Job-slides.pdf[Congo-Job-slides.pdf] 
 
- - [[[Graff]]] Graff Jonathan, _Algèbres géométriques pour la robotique en coq_, link:https://www.unistra.fr[Universite De Strasbourg], link:{attachmentsdir}/++Graff-Jonathan.pdf++[Graff-Jonathan.pdf],  link:{attachmentsdir}/++Graff-Jonathan-slides.pdf++[Graff-Jonathan-slides.pdf] 
+ - [[[DeVora]]] De Vora Ariel, _Etudes des représentations neurales pour des objets articulés_, link:[Cea Saclay], xref:attachment$De Vora-Ariel.pdf[De Vora-Ariel.pdf],  xref:attachment$De Vora-Ariel-slides.pdf[De Vora-Ariel-slides.pdf] 
 
- - [[[Madani]]] Madani Sarra Amel, _Stage consultante sap bi_, link:https://www.capgemini.com/fr-fr/[Capgemini Technology Services], [rapport secret],  [présentation secrète] 
+ - [[[Ecker]]] Ecker Nick, _Analyse quantitative des risques dans le domaine des fonds d’investissement_, link:[Commission De Surveillance Du Secteur Financier], xref:attachment$Ecker-Nick.pdf[Ecker-Nick.pdf],  xref:attachment$Ecker-Nick-slides.pdf[Ecker-Nick-slides.pdf] 
 
- - [[[NzoyemNgueguin]]] Nzoyem Ngueguin Roussel Desmond, _Fracturation des floes de glace par percussion dans un modèle granulaire_, link:https://www.ljll.math.upmc.fr/en/?lang=fr[Sorbonne Universite], link:{attachmentsdir}/++NzoyemNgueguin-RousselDesmond.pdf++[NzoyemNgueguin-RousselDesmond.pdf],  link:{attachmentsdir}/++NzoyemNgueguin-RousselDesmond-slides.pdf++[NzoyemNgueguin-RousselDesmond-slides.pdf] 
+ - [[[FonsecaHincapie]]] Fonseca Hincapie Diana Sol Angel, _Le stage en r&d chez michelin, axé sur l'explorationet l'évaluation de réseaux de neurones fortement contraints pour la simulation numérique des pneumatiques, vise à résoudre les défis liés aux temps de calcul et aux procédures de mise en données dans le cadre de la conception virtuelle des pneumatiques._, link:http://www.michelin.fr[Manufacture Francaise Des Pneuma], xref:attachment$Fonseca Hincapie-Diana Sol Angel.pdf[Fonseca Hincapie-Diana Sol Angel.pdf],  xref:attachment$Fonseca Hincapie-Diana Sol Angel-slides.pdf[Fonseca Hincapie-Diana Sol Angel-slides.pdf] 
 
- - [[[Ouachour]]] Ouachour Hanane, _apport des méthodes d’apprentissage profond pour la reconnaissance des actes des énoncés oraux - université d'orléans - projet rtr diams (19022lif)_, link:https://www.univ-orleans.fr/fr/polytech[Universite D'Orleans - Laboratoire Prisme - Polytech' Orleans], link:{attachmentsdir}/++Ouachour-Hanane.pdf++[Ouachour-Hanane.pdf],  link:{attachmentsdir}/++Ouachour-Hanane-slides.pdf++[Ouachour-Hanane-slides.pdf] 
+ - [[[Lelievre]]] Lelievre Thomas, _Optimizing the fork probability in proof-of-interactions blockchains_, link:[Universite De Strasbourg - Laboratoire Icube], xref:attachment$Lelievre-Thomas.pdf[Lelievre-Thomas.pdf],  xref:attachment$Lelievre-Thomas-slides.pdf[Lelievre-Thomas-slides.pdf] 
 
- - [[[Pinçon]]] Pinçon Philippe, _Mise à jour de factorisations de cholesky creuses dans le contexte de la simulation chirurgicale
-interactive._, link:https://www.insimo.com/fr/[Insimo], link:{attachmentsdir}/++Pinçon-Philippe.pdf++[Pinçon-Philippe.pdf],  link:{attachmentsdir}/++Pinçon-Philippe-slides.pdf++[Pinçon-Philippe-slides.pdf] 
+ - [[[Medessi]]] Medessi Seithondji Dieudonné, _Developpeur nouvelles technologies data_, link:www.fr.capgemini.com[Capgemini Est], xref:attachment$Medessi-Seithondji Dieudonné.pdf[Medessi-Seithondji Dieudonné.pdf],  xref:attachment$Medessi-Seithondji Dieudonné-slides.pdf[Medessi-Seithondji Dieudonné-slides.pdf] 
 
- - [[[Pinçon]]] Pinçon Philippe, _Mise à jour de factorisations de cholesky creuses dans le contexte de la simulation chirurgicale interactive._, link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est], link:{attachmentsdir}/++Pinçon-Philippe.pdf++[Pinçon-Philippe.pdf],  link:{attachmentsdir}/++Pinçon-Philippe-slides.pdf++[Pinçon-Philippe-slides.pdf] 
+ - [[[Pawlus]]] Pawlus Jérémy, _Apprentissage des fonctions de green par des opérateurs neuraux_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Pawlus-Jérémy.pdf[Pawlus-Jérémy.pdf],  xref:attachment$Pawlus-Jérémy-slides.pdf[Pawlus-Jérémy-slides.pdf] 
 
- - [[[Saigre-Tardif]]] Saigre-Tardif Thomas, _Méthode de réduction d'ordre pour un modèle poreux-élastique et couplage avec un système d'edo_, link:[Universite De Strasbourg - Ufr Math-Info], link:{attachmentsdir}/++Saigre-Tardif-Thomas.pdf++[Saigre-Tardif-Thomas.pdf],  link:{attachmentsdir}/++Saigre-Tardif-Thomas-slides.pdf++[Saigre-Tardif-Thomas-slides.pdf] 
-
- - [[[Sprunck]]] Sprunck Tom, _Estimation rapide des courants et inondations de tsunami à partir d'algorithmes de deep learning_, link:[Cea Centre Dam Ile-De-France], link:{attachmentsdir}/++Sprunck-Tom.pdf++[Sprunck-Tom.pdf],  link:{attachmentsdir}/++Sprunck-Tom-slides.pdf++[Sprunck-Tom-slides.pdf] 
-
- - [[[Steimer]]] Steimer Guillaume, _Apprendre la dynamique hamiltonienne avec des réseaux de neurones_, link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est], link:{attachmentsdir}/++Steimer-Guillaume.pdf++[Steimer-Guillaume.pdf],  link:{attachmentsdir}/++Steimer-Guillaume-slides.pdf++[Steimer-Guillaume-slides.pdf] 
-
- - [[[Vallet]]] Vallet Romain, _Modélisation d'aimant supra conducteur a haute température critique_, link:[Cnrs], link:https://master-csmi.github.io/2020-m2-lncmi/lncmicfpdes/cfpdes/index.html[Antora Site],  link:{attachmentsdir}/++Vallet-Romain-slides.pdf++[Vallet-Romain-slides.pdf] 
+ - [[[Saba]]] Saba Obed, _Stabilité dynamique et multiphasique d’un hydrofoil en écoulement libre_, link:www.segula.fr[Segula Aeronautique], xref:attachment$Saba-Obed.pdf[Saba-Obed.pdf],  xref:attachment$Saba-Obed-slides.pdf[Saba-Obed-slides.pdf] 
