@@ -1,17 +1,17 @@
 {
   "private": true,
-  "name": "csmi-stages",
-  "description": "Stages Master CSMI",
+  "name": "csmi-stages-2024",
+  "description": "Stages Master CSMI 2024",
   "version": "0.1.0",
   "license": "AGPL-3.0",
   "author": "Christophe Prud'homme",
-  "homepage": "https://www.github.com/master-csmi/csmi-stages#readme",
+  "homepage": "https://www.github.com/master-csmi/csmi-stages-2024#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://www.github.com/master-csmi/csmi-stages.git"
+    "url": "git+https://www.github.com/master-csmi/csmi-stages-2024.git"
   },
   "bugs": {
-    "url": "https://www.github.com/master-csmi/csmi-stages/issues"
+    "url": "https://www.github.com/master-csmi/csmi-stages-2024/issues"
   },
   "contributors": [
     {
