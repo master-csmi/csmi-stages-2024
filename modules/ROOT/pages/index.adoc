@@ -2,7 +2,7 @@
 :experimental: true
 :imagesprefix:
 ifdef::env-github,env-browser,env-vscode[:imagesprefix:]
-:repo: csmi-stages-{year}
+:repo: csmi-stages
 :stages-uri: https://github.com/master-csmi/{repo}
 :pr-uri: https://github.com/master-csmi/{repo}/compare
 :pdf-rep: modules/{master}/attachments
@@ -15,7 +15,7 @@ ifdef::env-github,env-browser,env-vscode[:imagesprefix:]
 
 [source,shell]
 --
-git clone {stages-uri}
+git clone {stages-uri}-{year}
 cd {repo}
 --
 
