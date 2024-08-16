@@ -3,3 +3,4 @@ PSTAGE**/
 public/
 /stages.*
 .venv/
+node_modules/
