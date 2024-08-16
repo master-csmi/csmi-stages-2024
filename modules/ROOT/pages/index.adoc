@@ -44,7 +44,10 @@ git commit -a -m"Ajout du rapport Nom Prénom"
 
 NOTE: Le PDF de la présentation peut être déposé la veille au soir de la soutenance.
 
-* Une fois la Pull Request créée, vérifier que votre modification génère correctement le site via Netlify.
+* Une fois la Pull Request créée, vérifier que votre modification génère correctement le site via Netlify. Netlify modifie le PR et rajoute des informations sur un déploiement de test et vous permets de verifier vos modifications.  Cliquer sur `Deploy preview` pour voir le site généré et vérifier que votre rapport et votre présentation sont bien accessibles.
+.
+.Deploy preview Netlify
+image::netlify-deploy-preview.png[]
 ----
 
 Cette page regroupe les rapports de stage pour l'année 2024 des Master 1 et 2 CSMI.
