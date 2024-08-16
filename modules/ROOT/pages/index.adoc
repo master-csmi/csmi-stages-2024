@@ -2,7 +2,7 @@
 :experimental: true
 :imagesprefix:
 ifdef::env-github,env-browser,env-vscode[:imagesprefix:]
-:repo: csmi-stages
+:repo: csmi-stages-{year}
 :stages-uri: https://github.com/master-csmi/{repo}
 :pr-uri: https://github.com/master-csmi/{repo}/compare
 :pdf-rep: modules/{master}/attachments
