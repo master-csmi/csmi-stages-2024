@@ -2,7 +2,7 @@
 = Master CSMI
 
 
-image::https://github.com/master-csmi/csmi-stages-2024/actions/workflows/ci.yml/badge.svg[CI]
+link:https://github.com/master-csmi/csmi-stages-2024/actions/workflows/ci.yml[image:https://github.com/master-csmi/csmi-stages-2024/actions/workflows/ci.yml/badge.svg[CI]]
 
 
 == Generating the document 
