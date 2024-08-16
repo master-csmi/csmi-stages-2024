@@ -70,6 +70,7 @@ par::[2024,m2]
 
 === Comment déposer un rapport Antora
 
-Pour déposer un rapport sous forme de site Antora, suivez les mêmes étapes que pour le rapport PDF, à l'exception de l'étape où vous devez déposer votre rapport PDF. À la place, ajoutez le lien vers le site Antora de votre rapport dans `modules/{master}/partials/rapports.adoc`.
+Pour déposer un rapport sous forme de site Antora, suivez les mêmes étapes que pour le rapport PDF, à l'exception de l'étape où vous devez déposer votre rapport PDF. 
+À la place, ajoutez le lien vers le site Antora de votre rapport dans `modules/{master}/partials/rapports.adoc`.
 
-NOTE: Votre présentation devra être au format PDF.
+NOTE: Votre présentation pour la soutenance devra être au format PDF.
