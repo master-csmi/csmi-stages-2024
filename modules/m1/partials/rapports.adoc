@@ -5,7 +5,7 @@
 
  - [[[CarpiLapi]]] Carpi Lapi Giulio, _Terrain_, link:[Irma - Cnrs Umr7501 - Universite De Strasbourg], xref:attachment$Carpi Lapi-Giulio.pdf[Carpi Lapi-Giulio.pdf],  xref:attachment$Carpi Lapi-Giulio-slides.pdf[Carpi Lapi-Giulio-slides.pdf] 
 
- - [[[Demuth]]] Demuth Axel, _Bâtiments lod-2 et kinetic_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Demuth-Axel.pdf[Demuth-Axel.pdf],  xref:attachment$Demuth-Axel-slides.pdf[Demuth-Axel-slides.pdf] 
+ - [[[Demuth]]] Demuth Axel, _Bâtiments lod-2 et kinetic_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Demuth-Axel-Antora[https://deploy-preview-24--ktirio-geom-docs.netlify.app/internship-reports-2024/building_lod2/],  xref:attachment$Demuth-Axel-slides.pdf[Demuth-Axel-slides.pdf] 
 
  - [[[Dieng]]] Dieng Adama, _Méthode galerkin discontinu en 1d_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Dieng-Adama.pdf[Dieng-Adama.pdf],  xref:attachment$Dieng-Adama-slides.pdf[Dieng-Adama-slides.pdf] 
 
