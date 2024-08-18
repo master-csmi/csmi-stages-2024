@@ -1,33 +1,33 @@
 
- - [[[Assigbe]]] Assigbe Komi Joseph Beni, _etude du modèle n-links pour la modélisation de micro-nageurs mono-flagellés._, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Assigbe-Komi Joseph Beni.pdf[Assigbe-Komi Joseph Beni.pdf],  xref:attachment$Assigbe-Komi Joseph Beni-slides.pdf[Assigbe-Komi Joseph Beni-slides.pdf] 
+ - [[[Assigbe]]] Assigbe Komi Joseph Beni, _etude du modèle n-links pour la modélisation de micro-nageurs mono-flagellés._, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Assigbe-Komi Joseph Beni.pdf[Assigbe-Komi Joseph Beni.pdf],  xref:attachment$Assigbe-Komi Joseph Beni-slides.pdf[Assigbe-Komi Joseph Beni-slides.pdf]
 
- - [[[Bouhenniche]]] Bouhenniche Oussama, _l’algorithme parareel application aux elements finis_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Bouhenniche-Oussama.pdf[Bouhenniche-Oussama.pdf],  xref:attachment$Bouhenniche-Oussama-slides.pdf[Bouhenniche-Oussama-slides.pdf] 
+ - [[[Bouhenniche]]] Bouhenniche Oussama, _l’algorithme parareel application aux elements finis_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Bouhenniche-Oussama.pdf[Bouhenniche-Oussama.pdf],  xref:attachment$Bouhenniche-Oussama-slides.pdf[Bouhenniche-Oussama-slides.pdf]
 
- - [[[CarpiLapi]]] Carpi Lapi Giulio, _Terrain_, link:[Irma - Cnrs Umr7501 - Universite De Strasbourg], xref:attachment$Carpi Lapi-Giulio.pdf[Carpi Lapi-Giulio.pdf],  xref:attachment$Carpi Lapi-Giulio-slides.pdf[Carpi Lapi-Giulio-slides.pdf] 
+ - [[[CarpiLapi]]] Carpi Lapi Giulio, _Terrain_, link:[Irma - Cnrs Umr7501 - Universite De Strasbourg], xref:attachment$Carpi Lapi-Giulio.pdf[Carpi Lapi-Giulio.pdf],  xref:attachment$Carpi Lapi-Giulio-slides.pdf[Carpi Lapi-Giulio-slides.pdf]
 
- - [[[Demuth]]] Demuth Axel, _Bâtiments lod-2 et kinetic_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Demuth-Axel.pdf[Demuth-Axel.pdf],  xref:attachment$Demuth-Axel-slides.pdf[Demuth-Axel-slides.pdf] 
+ - [[[Demuth]]] Demuth Axel, _Bâtiments lod-2 et kinetic_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Demuth-Axel.pdf[Demuth-Axel.pdf],  xref:attachment$Demuth-Axel-slides.pdf[Demuth-Axel-slides.pdf]
 
- - [[[Dieng]]] Dieng Adama, _Méthode galerkin discontinu en 1d_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Dieng-Adama.pdf[Dieng-Adama.pdf],  xref:attachment$Dieng-Adama-slides.pdf[Dieng-Adama-slides.pdf] 
+ - [[[Dieng]]] Dieng Adama, _Méthode galerkin discontinu en 1d_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Dieng-Adama.pdf[Dieng-Adama.pdf],  xref:attachment$Dieng-Adama-slides.pdf[Dieng-Adama-slides.pdf]
 
  - [[[Ehret]]] Ehret Justine, _Distributions statistiques sur la sphère et leurs
-applications à la polarisation de la lumière_, link:[Universite De Strasbourg - Telecom Physique Strasbourg], xref:attachment$Ehret-Justine.pdf[Ehret-Justine.pdf],  xref:attachment$Ehret-Justine-slides.pdf[Ehret-Justine-slides.pdf] 
+applications à la polarisation de la lumière_, link:[Universite De Strasbourg - Telecom Physique Strasbourg], xref:attachment$Ehret-Justine.pdf[Ehret-Justine.pdf],  xref:attachment$Ehret-Justine-slides.pdf[Ehret-Justine-slides.pdf]
 
- - [[[GeraldesPereira]]] Geraldes Pereira Dorian, _Bâtiments lod-1_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Geraldes Pereira-Dorian.pdf[Geraldes Pereira-Dorian.pdf],  xref:attachment$Geraldes Pereira-Dorian-slides.pdf[Geraldes Pereira-Dorian-slides.pdf] 
+ - [[[GeraldesPereira]]] Geraldes Pereira Dorian, _Bâtiments lod-1_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Geraldes Pereira-Dorian.pdf[Geraldes Pereira-Dorian.pdf],  xref:attachment$Geraldes Pereira-Dorian-slides.pdf[Geraldes Pereira-Dorian-slides.pdf]
 
- - [[[Gonin]]] Gonin Alexis, _Simulation numérique de la diffusion de mie avec feel++_, link:[Irma - Cnrs Umr7501 - Universite De Strasbourg], xref:attachment$Gonin-Alexis.pdf[Gonin-Alexis.pdf],  xref:attachment$Gonin-Alexis-slides.pdf[Gonin-Alexis-slides.pdf] 
+ - [[[Gonin]]] Gonin Alexis, _Simulation numérique de la diffusion de mie avec feel++_, link:[Irma - Cnrs Umr7501 - Universite De Strasbourg], xref:attachment$Gonin-Alexis.pdf[Gonin-Alexis.pdf],  xref:attachment$Gonin-Alexis-slides.pdf[Gonin-Alexis-slides.pdf]
 
- - [[[Pierre]]] Pierre Tanguy, _Rapport de performances_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Pierre-Tanguy.pdf[Pierre-Tanguy.pdf],  xref:attachment$Pierre-Tanguy-slides.pdf[Pierre-Tanguy-slides.pdf] 
+ - [[[Pierre]]] Pierre Tanguy, _Rapport de performances_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Pierre-Tanguy.pdf[Pierre-Tanguy.pdf],  xref:attachment$Pierre-Tanguy-slides.pdf[Pierre-Tanguy-slides.pdf]
 
- - [[[Rahouti]]] Rahouti Chahid, _Etude d’un article de recherche et implémentation dans le domaine de la thermique du bâtiment_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Rahouti-Chahid.pdf[Rahouti-Chahid.pdf],  xref:attachment$Rahouti-Chahid-slides.pdf[Rahouti-Chahid-slides.pdf] 
+ - [[[Rahouti]]] Rahouti Chahid, _Etude d’un article de recherche et implémentation dans le domaine de la thermique du bâtiment_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Rahouti-Chahid.pdf[Rahouti-Chahid.pdf],  xref:attachment$Rahouti-Chahid-slides.pdf[Rahouti-Chahid-slides.pdf]
 
- - [[[Regardin]]] Regardin Antoine, _New numerical schemes for hyperbolic equations_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Regardin-Antoine.pdf[Regardin-Antoine.pdf],  xref:attachment$Regardin-Antoine-slides.pdf[Regardin-Antoine-slides.pdf] 
+ - [[[Regardin]]] Regardin Antoine, _New numerical schemes for hyperbolic equations_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Regardin-Antoine.pdf[Regardin-Antoine.pdf],  xref:attachment$Regardin-Antoine-slides.pdf[Regardin-Antoine-slides.pdf]
 
- - [[[Roth]]] Roth Robin, _Collective motion of squirmers in confined environments_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Roth-Robin.pdf[Roth-Robin.pdf],  xref:attachment$Roth-Robin-slides.pdf[Roth-Robin-slides.pdf] 
+ - [[[Roth]]] Roth Robin, _Collective motion of squirmers in confined environments_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Roth-Robin.pdf[Roth-Robin.pdf],  xref:attachment$Roth-Robin-slides.pdf[Roth-Robin-slides.pdf]
 
- - [[[Senger]]] Senger Pierre-Antoine, _Exa-ma vegetation_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Senger-Pierre-Antoine.pdf[Senger-Pierre-Antoine.pdf],  xref:attachment$Senger-Pierre-Antoine-slides.pdf[Senger-Pierre-Antoine-slides.pdf] 
+ - [[[Senger]]] Senger Pierre-Antoine, _Exa-ma vegetation_, link:[Universite De Strasbourg - Ufr Math-Info], xref:link:++https://deploy-preview-20--ktirio-geom-docs.netlify.app/ktirio-geom/++[Senger-Pierre-Antoine.pdf],  xref:attachment$Senger-Pierre-Antoine-slides.pdf[Senger-Pierre-Antoine-slides.pdf]
 
- - [[[Sengler]]] Sengler Marie, _Simulations multi-échelle d'électrostatique et de magnétostatique sur des domaines complexes_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Sengler-Marie.pdf[Sengler-Marie.pdf],  xref:attachment$Sengler-Marie-slides.pdf[Sengler-Marie-slides.pdf] 
+ - [[[Sengler]]] Sengler Marie, _Simulations multi-échelle d'électrostatique et de magnétostatique sur des domaines complexes_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Sengler-Marie.pdf[Sengler-Marie.pdf],  xref:attachment$Sengler-Marie-slides.pdf[Sengler-Marie-slides.pdf]
 
- - [[[Tlili]]] Tlili Rayen, _Couplage scimba et feel++_, link:[Irma - Cnrs Umr7501 - Universite De Strasbourg], xref:attachment$Tlili-Rayen.pdf[Tlili-Rayen.pdf],  xref:attachment$Tlili-Rayen-slides.pdf[Tlili-Rayen-slides.pdf] 
+ - [[[Tlili]]] Tlili Rayen, _Couplage scimba et feel++_, link:[Irma - Cnrs Umr7501 - Universite De Strasbourg], xref:attachment$Tlili-Rayen.pdf[Tlili-Rayen.pdf],  xref:attachment$Tlili-Rayen-slides.pdf[Tlili-Rayen-slides.pdf]
 
- - [[[Zaouache]]] Zaouache Narimane, _Parareal et lorenz_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Zaouache-Narimane.pdf[Zaouache-Narimane.pdf],  xref:attachment$Zaouache-Narimane-slides.pdf[Zaouache-Narimane-slides.pdf] 
+ - [[[Zaouache]]] Zaouache Narimane, _Parareal et lorenz_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Zaouache-Narimane.pdf[Zaouache-Narimane.pdf],  xref:attachment$Zaouache-Narimane-slides.pdf[Zaouache-Narimane-slides.pdf]
