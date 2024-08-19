@@ -18,7 +18,7 @@ applications à la polarisation de la lumière_, link:[Universite De Strasbourg 
 
  - [[[Pierre]]] Pierre Tanguy, _Rapport de performances_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Pierre-Tanguy.pdf[Pierre-Tanguy.pdf],  xref:attachment$Pierre-Tanguy-slides.pdf[Pierre-Tanguy-slides.pdf]
 
- - [[[Rahouti]]] Rahouti Chahid, _Etude d’un article de recherche et implémentation dans le domaine de la thermique du bâtiment_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Rahouti-Chahid.pdf[Rahouti-Chahid.pdf],  xref:attachment$Rahouti-Chahid-slides.pdf[Rahouti-Chahid-slides.pdf]
+ - [[[Rahouti]]] Rahouti Chahid, _Etude d’un article de recherche et implémentation dans le domaine de la thermique du bâtiment_, link:[Universite De Strasbourg - Ufr Math-Info], https://deploy-preview-26--ktirio-geom-docs.netlify.app/internship-reports-2024/viewfactors/[> Antora site],  xref:attachment$Rahouti-Chahid-slides.pdf[Rahouti-Chahid-slides.pdf]
 
  - [[[Regardin]]] Regardin Antoine, _New numerical schemes for hyperbolic equations_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Regardin-Antoine.pdf[Regardin-Antoine.pdf],  xref:attachment$Regardin-Antoine-slides.pdf[Regardin-Antoine-slides.pdf]
 
