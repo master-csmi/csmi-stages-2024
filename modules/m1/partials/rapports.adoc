@@ -24,7 +24,7 @@ applications à la polarisation de la lumière_, link:[Universite De Strasbourg 
 
  - [[[Roth]]] Roth Robin, _Collective motion of squirmers in confined environments_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Roth-Robin.pdf[Roth-Robin.pdf],  xref:attachment$Roth-Robin-slides.pdf[Roth-Robin-slides.pdf]
 
- - [[[Senger]]] Senger Pierre-Antoine, _Exa-ma vegetation_, link:[Universite De Strasbourg - Ufr Math-Info], link:++https://feelpp.github.io/ktirio-geom.docs/ktirio-geom/index.html++[Senger-Pierre-Antoine.pdf],  xref:attachment$Senger-Pierre-Antoine-slides.pdf[Senger-Pierre-Antoine-slides.pdf]
+ - [[[Senger]]] Senger Pierre-Antoine, _Exa-ma vegetation_, link:[Universite De Strasbourg - Ufr Math-Info], https://feelpp.github.io/ktirio-geom.docs/internship-reports-2024/vegetation/index.html[> Antora Site],  xref:attachment$Senger-Pierre-Antoine-slides.pdf[Senger-Pierre-Antoine-slides.pdf]
 
  - [[[Sengler]]] Sengler Marie, _Simulations multi-échelle d'électrostatique et de magnétostatique sur des domaines complexes_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Sengler-Marie.pdf[Sengler-Marie.pdf],  xref:attachment$Sengler-Marie-slides.pdf[Sengler-Marie-slides.pdf]
 
