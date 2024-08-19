@@ -12,7 +12,7 @@
  - [[[Ehret]]] Ehret Justine, _Distributions statistiques sur la sphère et leurs
 applications à la polarisation de la lumière_, link:[Universite De Strasbourg - Telecom Physique Strasbourg], xref:attachment$Ehret-Justine.pdf[Ehret-Justine.pdf],  xref:attachment$Ehret-Justine-slides.pdf[Ehret-Justine-slides.pdf]
 
- - [[[GeraldesPereira]]] Geraldes Pereira Dorian, _Bâtiments lod-1_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Geraldes Pereira-Dorian.pdf[Geraldes Pereira-Dorian.pdf],  xref:attachment$Geraldes Pereira-Dorian-slides.pdf[Geraldes Pereira-Dorian-slides.pdf]
+ - [[[GeraldesPereira]]] Geraldes Pereira Dorian, _Bâtiments lod-1_, link:[Universite De Strasbourg - Ufr Math-Info], https://feelpp.github.io/ktirio-geom.docs/internship-reports-2024/building_lod1/index.html[> Antora site],  xref:attachment$Geraldes Pereira-Dorian-slides.pdf[Geraldes Pereira-Dorian-slides.pdf] 
 
  - [[[Gonin]]] Gonin Alexis, _Simulation numérique de la diffusion de mie avec feel++_, link:[Irma - Cnrs Umr7501 - Universite De Strasbourg], xref:attachment$Gonin-Alexis.pdf[Gonin-Alexis.pdf],  xref:attachment$Gonin-Alexis-slides.pdf[Gonin-Alexis-slides.pdf]
 
