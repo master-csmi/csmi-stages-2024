@@ -1,5 +1,5 @@
 
- - [[[Assigbe]]] Assigbe Komi Joseph Beni, _etude du modèle n-links pour la modélisation de micro-nageurs mono-flagellés._, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Assigbe-Komi Joseph Beni.pdf[Assigbe-Komi Joseph Beni.pdf],  xref:attachment$Assigbe-Komi Joseph Beni-slides.pdf[Assigbe-Komi Joseph Beni-slides.pdf]
+ - [[[Assigbe]]] Assigbe Komi Joseph Beni, _etude du modèle n-links pour la modélisation de micro-nageurs mono-flagellés._, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Assigbe-Komi-Joseph-Beni.pdf[Assigbe-Komi-Joseph-Beni.pdf],  xref:attachment$Assigbe-Komi-Joseph-Beni-slides.pdf[Assigbe-Komi-Joseph-Beni-slides.pdf]
 
  - [[[Bouhenniche]]] Bouhenniche Oussama, _l’algorithme parareel: une analyse avancée_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Bouhenniche-Oussama.pdf[Bouhenniche-Oussama.pdf],  xref:attachment$Bouhenniche-Oussama-slides.pdf[Bouhenniche-Oussama-slides.pdf]
 
