@@ -1,7 +1,7 @@
 
  - [[[Assigbe]]] Assigbe Komi Joseph Beni, _etude du modèle n-links pour la modélisation de micro-nageurs mono-flagellés._, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Assigbe-Komi Joseph Beni.pdf[Assigbe-Komi Joseph Beni.pdf],  xref:attachment$Assigbe-Komi Joseph Beni-slides.pdf[Assigbe-Komi Joseph Beni-slides.pdf]
 
- - [[[Bouhenniche]]] Bouhenniche Oussama, _l’algorithme parareel application aux elements finis_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Bouhenniche-Oussama.pdf[Bouhenniche-Oussama.pdf],  xref:attachment$Bouhenniche-Oussama-slides.pdf[Bouhenniche-Oussama-slides.pdf]
+ - [[[Bouhenniche]]] Bouhenniche Oussama, _l’algorithme parareel: une analyse avancée_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Bouhenniche-Oussama.pdf[Bouhenniche-Oussama.pdf],  xref:attachment$Bouhenniche-Oussama-slides.pdf[Bouhenniche-Oussama-slides.pdf]
 
  - [[[CarpiLapi]]] Carpi Lapi Giulio, _Terrain_, link:[Irma - Cnrs Umr7501 - Universite De Strasbourg], xref:attachment$Carpi Lapi-Giulio.pdf[Carpi Lapi-Giulio.pdf],  xref:attachment$Carpi Lapi-Giulio-slides.pdf[Carpi Lapi-Giulio-slides.pdf]
 
@@ -18,7 +18,7 @@ applications à la polarisation de la lumière_, link:[Universite De Strasbourg 
 
  - [[[Pierre]]] Pierre Tanguy, _Rapport de performances_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Pierre-Tanguy.pdf[Pierre-Tanguy.pdf],  xref:attachment$Pierre-Tanguy-slides.pdf[Pierre-Tanguy-slides.pdf]
 
- - [[[Rahouti]]] Rahouti Chahid, _Etude d’un article de recherche et implémentation dans le domaine de la thermique du bâtiment_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Rahouti-Chahid.pdf[Rahouti-Chahid.pdf],  xref:attachment$Rahouti-Chahid-slides.pdf[Rahouti-Chahid-slides.pdf]
+ - [[[Rahouti]]] Rahouti Chahid, _Etude d’un article de recherche et implémentation dans le domaine de la thermique du bâtiment_, link:[Universite De Strasbourg - Ufr Math-Info], https://feelpp.github.io/ktirio-geom.docs/internship-reports-2024/viewfactors/index.html[> Antora site],  xref:attachment$Rahouti-Chahid-slides.pdf[Rahouti-Chahid-slides.pdf]
 
  - [[[Regardin]]] Regardin Antoine, _New numerical schemes for hyperbolic equations_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Regardin-Antoine.pdf[Regardin-Antoine.pdf],  xref:attachment$Regardin-Antoine-slides.pdf[Regardin-Antoine-slides.pdf]
 
