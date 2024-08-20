@@ -4,7 +4,7 @@
 
 | Assigbe | Komi Joseph Beni | link:[Universite De Strasbourg - Ufr Math-Info] | _Etude du modèle N-links pour la modélisation de micro-nageurs mono-flagellés._
 
-| Bouhenniche | Oussama | link:[Universite De Strasbourg - Ufr Math-Info] | _l’algorithme parareel application aux elements finis_
+| Bouhenniche | Oussama | link:[Universite De Strasbourg - Ufr Math-Info] | _l’algorithme parareel: une analyse avancée_
 
 | Carpi Lapi | Giulio | link:[Irma - Cnrs Umr7501 - Universite De Strasbourg] | _Terrain_
 
