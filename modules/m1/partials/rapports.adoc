@@ -3,7 +3,7 @@
 
  - [[[Bouhenniche]]] Bouhenniche Oussama, _l’algorithme parareel: une analyse avancée_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Bouhenniche-Oussama.pdf[Bouhenniche-Oussama.pdf],  xref:attachment$Bouhenniche-Oussama-slides.pdf[Bouhenniche-Oussama-slides.pdf]
 
- - [[[CarpiLapi]]] Carpi Lapi Giulio, _Terrain_, link:[Irma - Cnrs Umr7501 - Universite De Strasbourg], https://feelpp.github.io/ktirio-geom.docs/internship-reports-2024/terrain/index.html[> Antora Site],  xref:attachment$Carpi Lapi-Giulio-slides.pdf[Carpi Lapi-Giulio-slides.pdf]
+ - [[[CarpiLapi]]] Carpi Lapi Giulio, _Terrain_, link:[Irma - Cnrs Umr7501 - Universite De Strasbourg], https://feelpp.github.io/ktirio-geom.docs/internship-reports-2024/terrain/index.html[> Antora Site],  xref:attachment$Carpi-Lapi-Giulio-slides.pdf[Carpi-Lapi-Giulio-slides.pdf]
 
  - [[[Demuth]]] Demuth Axel, _Bâtiments lod-2 et kinetic_, link:[Universite De Strasbourg - Ufr Math-Info], https://feelpp.github.io/ktirio-geom.docs/internship-reports-2024/building_lod2/index.html[> Antora Site],  xref:attachment$Demuth-Axel-slides.pdf[Demuth-Axel-slides.pdf] 
 
