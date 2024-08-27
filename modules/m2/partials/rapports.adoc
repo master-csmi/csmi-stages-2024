@@ -15,7 +15,7 @@
 
  - [[[Lelievre]]] Lelievre Thomas, _Optimizing the fork probability in proof-of-interactions blockchains_, link:[Universite De Strasbourg - Laboratoire Icube], xref:attachment$Lelievre-Thomas.pdf[Lelievre-Thomas.pdf],  xref:attachment$Lelievre-Thomas-slides.pdf[Lelievre-Thomas-slides.pdf] 
 
- - [[[Medessi]]] Medessi Seithondji Dieudonné, _Developpeur nouvelles technologies data_, link:www.fr.capgemini.com[Capgemini Est], xref:attachment$Medessi-Seithondji Dieudonné.pdf[Medessi-Seithondji Dieudonné.pdf],  xref:attachment$Medessi-Seithondji Dieudonné-slides.pdf[Medessi-Seithondji Dieudonné-slides.pdf] 
+ - [[[Medessi]]] Medessi Seithondji Dieudonné, _Developpeur nouvelles technologies data_, link:https://www.capgemini.com/fr-fr/[Capgemini Technology Services], link:https://csmi-m2-stage-2024-playbook-medessi-ba0fe921eb2f16932bb901acdc9.pages.unistra.fr/report/v1.0/index.html[Medessi-Seithondji Dieudonné.html],  xref:attachment$Medessi-Seithondji Dieudonné-slides.pdf[Medessi-Seithondji Dieudonné-slides.pdf] 
 
  - [[[Pawlus]]] Pawlus Jérémy, _Apprentissage des fonctions de green par des opérateurs neuraux_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Pawlus-Jérémy.pdf[Pawlus-Jérémy.pdf],  xref:attachment$Pawlus-Jérémy-slides.pdf[Pawlus-Jérémy-slides.pdf] 
 
