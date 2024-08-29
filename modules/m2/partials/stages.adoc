@@ -18,7 +18,7 @@
 
 | Lelievre | Thomas | link:[Universite De Strasbourg - Laboratoire Icube] | _Optimizing the Fork Probability in Proof-of-Interactions Blockchains_
 
-| Medessi | Seithondji Dieudonné | link:www.fr.capgemini.com[Capgemini Est] | _Developpeur nouvelles technologies Data_
+| Medessi | Seithondji Dieudonné | link:https://www.capgemini.com/fr-fr/[Capgemini Technology Services] | _Developpeur nouvelles technologies Data_
 
 | Pawlus | Jérémy | link:[Universite De Strasbourg - Ufr Math-Info] | _Apprentissage des fonctions de Green par des opérateurs neuraux_
 
